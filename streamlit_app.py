@@ -14,8 +14,8 @@ Rozliczanie podatku od kryptowalut na podstawie pliku CSV z giełdy Binance.
             
 **Instrukcja:**
 1. Wgraj plik CSV.
-3. W panelu bocznym wybierz rok, który rozliczasz.
-2. W panelu bocznym wybierz, które waluty z pliku to waluty tradycyjne (FIAT). Aplikacja przeliczy tylko transakcje z udziałem tych walut.
+2. W panelu bocznym wybierz rok, który rozliczasz.
+3. W panelu bocznym wybierz, które waluty z pliku to waluty tradycyjne (FIAT). Aplikacja przeliczy tylko transakcje z udziałem tych walut.
 """)
 
 st.divider()
